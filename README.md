@@ -1,5 +1,6 @@
 # BitSong smart contract
 ![bitsong-logo](img/bitsong_logo.png)
+
 [BitSong](https://bitsong.io/) - The first decentralized music streaming platform, based on Etherem and IPFS. 
 
 ## Token Standards
