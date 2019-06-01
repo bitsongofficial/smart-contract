@@ -1,7 +1,7 @@
 # BitSong smart contract
 ![bitsong-logo](img/bitsong_logo.png)
 
-[BitSong](https://bitsong.io/) - The first decentralized music streaming platform, based on Etherem and IPFS. 
+[BitSong](https://bitsong.io/) - The first decentralized music streaming platform, based on Ethereum and IPFS. 
 
 ## Token Standards
 Opus token is compliant to the [ERC20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md) standards.
